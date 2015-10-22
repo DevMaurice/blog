@@ -4,7 +4,7 @@ This application is a from a tutorial [this](http://laravelcoding.com/blog?tag=L
 
 The tutorial teaches a lot of [laravel](Laravel.com) features.
 
-##Features:
+## Features:
  	Admin Section
  	Blog Section.
  	Commenting using [Disqus](https://disqus.com/home/).
@@ -12,13 +12,16 @@ The tutorial teaches a lot of [laravel](Laravel.com) features.
  	Pagnation
  	Blog theme.
 
- ##Developers Learn:
+## Developers Learn:
  	Laravel setup.
  	Jobs.
  	Requests.
  	Relations.
  	Mail
  	FileSystem
+ 	and many more.
+ 	
+ 	Laravel [features](http://laravel.com/docs/5.1/)
  	
 
 
