@@ -21,7 +21,7 @@ The tutorial teaches a lot of [laravel](Laravel.com) features.
  	FileSystem
  	and many more.
  	
- 	Laravel [features](http://laravel.com/docs/5.1/)
+ 	Laravel [features](http://laravel.com/docs/5.1/).
  	
 
 
